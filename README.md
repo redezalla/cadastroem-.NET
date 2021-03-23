@@ -1,1 +1,1 @@
-# cadastroem-.NET
+# cadastro de séries em .NET
